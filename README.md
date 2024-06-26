@@ -1,33 +1,9 @@
-### Hi there 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### 👨🏻‍💻 Here is some information about me ###
 
-👨🏻‍💻 I run a company where I teach students how to programme <br/>
-🎓 I’m Computer Science Student at University of Lodz <br/>
-🔭 I’m looking for a Frontend or Full Stack Internship <br/>
-📫 If you want to reach me, just send me an email 
+<br/> <br/>
+<h1 align="center">👋 Hi, I'm Adrian</h1>
+<h3 align="center">I'm a full-stack web developer specialized in React & Django</h3>
 
-#### Software Stack ####
-
-![React](https://img.shields.io/badge/React.js-0a6ed1?logo=React)
-![Next.js](https://img.shields.io/badge/Next.js-050505?logo=Next.js)
-![Python FastAPI](https://img.shields.io/badge/FastAPI-ffde57?logo=Python)
-![MySQL](https://img.shields.io/badge/MySQL-3AD100?logo=MySQL)
-![Figma](https://img.shields.io/badge/Figma-fd3259)
-
-![Git](https://img.shields.io/badge/Git-E44C30?&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-171515?&logo=Github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FFFFFF?&logo=Docker&logoColor=1D63ED)
-![MySQL](https://img.shields.io/badge/MySQL-0064a5?&logo=postgresql&logoColor=white)
-
-#### Fluent Languages ####
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?&logo=Javascript)
-![Python](https://img.shields.io/badge/Python-ffde57?&logo=Python)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-8300A0?logo=C%23)
-
-### :fire: My Stats ###
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThaikoZ&theme=dark&background=0d1117)](https://git.io/streak-stats)
+<p align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="tailwind" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </p>
 

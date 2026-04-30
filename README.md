@@ -3,7 +3,7 @@
 <br/><br/>
 
 <h1 align="center">👋 Hi, I'm Adrian</h1>
-<h3 align="center">As a Fullstack Engineer, I work with</h3>
+<h3 align="center">As a Fullstack AI Engineer, I work with</h3>
 
 <p align="center">
   <span>
@@ -23,6 +23,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/>
+  </span>
+</p>
+
+<p align="center">
+  <span>
+    <img src="https://cdn.simpleicons.org/openai" width="40"/>
+    <img src="https://cdn.simpleicons.org/anthropic" width="40"/>
+    <img src="https://cdn.simpleicons.org/langchain" width="40"/>
+    <img src="https://cdn.simpleicons.org/langgraph" width="40"/>
+    <img src="https://cdn.simpleicons.org/openrouter" width="40"/>
   </span>
 </p>
 
